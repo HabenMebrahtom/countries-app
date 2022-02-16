@@ -1,4 +1,4 @@
-  const apiURL = 'https://restcountries.eu/rest/v2/all';
+  const apiURL = 'https://restcountries.com/v3.1/all';
   
   const searchInput = document.getElementById('search-input');
   const displayList = document.getElementById('countries-list')

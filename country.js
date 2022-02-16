@@ -1,5 +1,5 @@
 
-const apiURL = 'https://restcountries.eu/rest/v2/name';
+const apiURL = 'https://restcountries.com/v3.1/name/';
 
 const display = document.getElementById('display');
 
